@@ -1,0 +1,26 @@
+{
+  "name": "Mintelligence Web3 Certificate",
+  "description": "Official certificate proving completion of Web3 education quizzes on Mintelligence platform",
+  "image": "https://mintelligence.app/certificate-badge.png",
+  "external_url": "https://mintelligence.app",
+  "properties": {
+    "platform": "Mintelligence",
+    "category": "Education Certificate",
+    "blockchain": "Stellar",
+    "standard": "Stellar Asset"
+  },
+  "attributes": [
+    {
+      "trait_type": "Certificate Type",
+      "value": "Web3 Education"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Mintelligence"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Stellar"
+    }
+  ]
+}
