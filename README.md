@@ -134,13 +134,6 @@ soroban config network add testnet   --rpc-url https://rpc-futurenet.stellar.org
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [`LICENSE`](./LICENSE) file for more information.
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions!
@@ -161,9 +154,3 @@ Please open an issue first for major changes or discussions.
 
 ---
 
-## 📬 Contact
-
-📧 Email: `team@mintelligence.xyz`  
-🌐 GitHub: [github.com/your-org/mintelligence](https://github.com/your-org/mintelligence)
-
----
