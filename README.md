@@ -68,8 +68,6 @@ We integrated **Freighter Wallet** to enable users to interact with the Stellar 
 - Wallet must be switched to **Testnet Mode**.
 - Transactions are executed using **Soroban smart contracts**.
 
-> 🔗 [Download Freighter Wallet](https://freighter.stellar.org)
-
 ---
 
 ## 📦 Smart Contracts (Soroban)
