@@ -110,14 +110,6 @@ soroban config network add testnet   --rpc-url https://rpc-futurenet.stellar.org
 
 ---
 
-## 👥 Project Team
-
-| Name   | Role & Contributions |
-|--------|----------------------|
-| **İpek**   | Frontend development, Freighter Wallet integration, UI/UX design, Passkeys R&D, deployment |
-| **Nur**    | Smart contract development using Soroban SDK, Stellar testnet deployment, blockchain logic |
-| **Zeynep** | Backend setup, GitHub repo organization, documentation, project narrative & presentation |
-
 ---
 
 ## 🌍 Live Demo
